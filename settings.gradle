@@ -1,0 +1,5 @@
+rootProject.name = 'ticket-printer'
+
+include 'print_lib'
+include 'printer_status_lib'
+include 'app'

@@ -1,0 +1,14 @@
+/.nb-gradle/
+/print_lib/.nb-gradle/
+/printer_status/.nb-gradle/
+/printer_status_lib/.nb-gradle/
+/printer_status/build/
+/ticket_printer/build/
+/ticket_printer/.nb-gradle/
+/print_lib/build/
+/printer_status_lib/build/
+/app/build/
+.gradle
+/local.properties
+/build
+/.nb-gradle-properties
